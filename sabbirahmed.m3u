@@ -269,7 +269,7 @@ http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/TYCmvBR7/20240823-020800.png",Ruposhi Bangla 
 http://103.175.73.12:8080/live/664/664_0.m3u8
 
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Program Promo
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://raw.githubusercontent.com/officetv10005-lab/Sabbir-IPTV/refs/heads/main/sabbir_(1)%5B1%5D.jpg",Program Promo
 https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/F1t6r1gv/20240823_023247.png",Colors HD 

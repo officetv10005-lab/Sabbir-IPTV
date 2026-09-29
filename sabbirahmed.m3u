@@ -140,15 +140,17 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="𝐊𝐢𝐝𝐬",Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXsdYZ4K/mr-bean.png" group-title="𝐊𝐢𝐝𝐬",Mr Bean
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png" group-title="𝐊𝐢𝐝𝐬",Doraemon TV
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pApniCXhegDnhxQda7RcpG8gFP0.jpg" group-title="𝐊𝐢𝐝𝐬",Tom & Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
+http://198.195.239.50:8095/nick/index.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
-http://live.balajibroadband.com:3500/live/1345.m3u8
+http://198.195.239.50:8095/sonic/index.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/kGj5L3xW/20240823_021535.png",Hungama 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="𝐊𝐢𝐝𝐬",Durunto
@@ -163,7 +165,7 @@ https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png" group-title="𝐊𝐢𝐝𝐬",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png" group-title="𝐊𝐢𝐝𝐬",Pogo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKXgPFXW/pogo.png" group-title="𝐊𝐢𝐝𝐬",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 
 
@@ -293,7 +295,7 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnSQC8xm/unnamed.jpg" group-title="𝐌𝐮𝐬𝐢𝐜",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/4ythzNmp/KLrf-KRn.png",8XM
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/CLZqyhh3/8XMhd.png",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
@@ -305,8 +307,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeb0cd6768be49eeb8eac3df17638a4e:3496163276404b46906865eadd195e67
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri2/default/main.mpd
-
-
 
 
 
@@ -384,23 +384,26 @@ https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 
 
-
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet HD
 http://27.124.71.27/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discovery
-http://202.70.146.135:8000/play/a05z/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",National Geographic HD
-https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823-024003.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",National Wild HD
 http://202.70.146.135:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Love Natural
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Sony BBC Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkzX5fKL/bbc-earth-logo-2023-1x1-removebg-preview.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲", Travel XP HD
-http://103.159.180.34:5001/live/562.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4xmdz7W/OIP-removebg-preview.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",History TV18
+https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbsyc80c/610X380-2-removebg-preview.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Travel XP HD
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkzX5fKL/bbc-earth-logo-2023-1x1-removebg-preview.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8

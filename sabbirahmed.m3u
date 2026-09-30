@@ -107,21 +107,6 @@ https://srktv.net/srktvhls/cdnlive_srktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXb66hdC/jagonews.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Deshe Bideshe" tvg-logo="https://raw.githubusercontent.com/officetv10005-lab/Sabbir-IPTV/main/sabbir_(1)%5B1%5D.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/officetv10005-lab/Sabbir-IPTV/main/sabbir_(1)%5B1%5D.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Desh TV
-https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
-
-#EXTINF:-1 tvg-name="Deshi TV" tvg-logo="https://raw.githubusercontent.com/officetv10005-lab/Sabbir-IPTV/main/sabbir_(1)%5B1%5D.jpg" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/officetv10005-lab/Sabbir-IPTV/main/sabbir_(1)%5B1%5D.jpg"  group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Asian TV
-https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name="Probashi TV" tvg-logo="https://raw.githubusercontent.com/officetv10005-lab/Sabbir-IPTV/main/sabbir_(1)%5B1%5D.jpg"  group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Probashi TV
-http://158.69.24.53:8080/probashi_tv/index.m3u8
-
 
 #EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",Makkah Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8

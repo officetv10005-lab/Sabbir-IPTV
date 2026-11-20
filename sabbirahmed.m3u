@@ -229,8 +229,7 @@ http://filex.me:8080/live/03098001921RDB/03098001921RDB/955394.ts
 http://markethelp1.com:80/live/sree1602/9196sree/7342.ts
 #EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://i.postimg.cc/13YWjGhB/20260921-092216.png" group-title="Discovery 🌍",NAT GEO WILD HINDI
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/246728.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="PROMO",Program Promo
-https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
+
 #EXTINF:-1 tvg-id="825" tvg-name="Sony BBC Earth HD English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" tvg-language="English" group-title="Discovery 🌍",Sony BBC Earth HD HINDI
 http://filex.me:8080/live/03098001921RDB/03098001921RDB/499681.ts
 #EXTINF:205 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" group-title="Cartoon 🎎🤸",Carton Vantu Bangla 4k.......56
@@ -449,5 +448,4 @@ http://mag.max-cdn.com:80/play/live.php?mac=00:1B:79:4D:15:5E&stream=761953&exte
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2500/index.m3u8
 #EXTINF:-1 tvg-id="doraemon" tvg-logo="https://i.postimg.cc/g2jryq01/20260917-181314.png" group-title="Cartoon 🎎🤸",Hungama
 http://vca.easy747.com:80/live/0578694/1295K6K/510267.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="PROMO",Program Promo
-https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
+
